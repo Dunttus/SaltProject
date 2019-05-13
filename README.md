@@ -21,4 +21,10 @@ Windows ohjelmistojen asennukseen tarvitset vielä paketin hallinnan, jonka ohje
 	sudo systemctl restart salt-minion
 
 ## Lisätietoja
-Lisätietoja löytyy blogista: (https://jonihakala208450670.wordpress.com/2019/04/28/kurssityo/)
+Lisätietoja löytyy blogista: https://jonihakala208450670.wordpress.com/2019/04/28/kurssityo/
+
+## Lähteet
+Pohjana Tero Karvinen 2012: Palvelinten hallinta kurssi, http://terokarvinen.com
+Vinkit Pi-hole automaatiseen asennukseen: https://discourse.pi-hole.net/t/what-is-setupvars-conf-and-how-do-i-use-it/3533
+Asennus paketit Windowsille: https://github.com/saltstack/salt-winrepo-ng
+Salt sls tiedostojen ohjeet: https://docs.saltstack.com/en/latest/topics/best_practices.html
