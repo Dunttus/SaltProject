@@ -25,6 +25,9 @@ Lisätietoja löytyy blogista: https://jonihakala208450670.wordpress.com/2019/04
 
 ## Lähteet
 Pohjana Tero Karvinen 2012: Palvelinten hallinta kurssi, http://terokarvinen.com
+
 Vinkit Pi-hole automaatiseen asennukseen: https://discourse.pi-hole.net/t/what-is-setupvars-conf-and-how-do-i-use-it/3533
+
 Asennus paketit Windowsille: https://github.com/saltstack/salt-winrepo-ng
+
 Salt sls tiedostojen ohjeet: https://docs.saltstack.com/en/latest/topics/best_practices.html
