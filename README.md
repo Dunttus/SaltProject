@@ -13,3 +13,9 @@
 
 ## Windows asennukset
 Windows ohjelmistojen asennukseen tarvitset vielä paketin hallinnan, jonka ohje löytyy [SaltStackin](https://docs.saltstack.com/en/latest/topics/windows/windows-package-manager.html) sivulta.
+
+## Orjia lisäävä bash skripti
+	#!/bin/bash
+	sudo apt-get update && sudo apt-get install -y salt-minion && sudo apt-get install -y pwgen
+	echo master: 104.248.26.65$'\r'id: user-$(pwgen 10) | sudo tee /etc/salt/minion
+	sudo systemctl restart salt-minion
