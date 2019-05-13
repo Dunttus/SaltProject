@@ -19,3 +19,6 @@ Windows ohjelmistojen asennukseen tarvitset vielä paketin hallinnan, jonka ohje
 	sudo apt-get update && sudo apt-get install -y salt-minion && sudo apt-get install -y pwgen
 	echo master: 10.0.0.0$'\r'id: user-$(pwgen 10) | sudo tee /etc/salt/minion
 	sudo systemctl restart salt-minion
+
+## Lisätietoja
+Lisätietoja löytyy blogista: (https://jonihakala208450670.wordpress.com/2019/04/28/kurssityo/)
