@@ -12,5 +12,4 @@
 • **Windows 10** – Ohjelmistot asennettu: 7zip, Firefox, AutoIt, Vlc, Putty, Steam ja Gimp.
 
 ## Windows asennukset
-Tarvitset vielä paketin hallinnan SaltStackin sivun ohjeen mukaan [Link](https://docs.saltstack.com/en/latest/topics/windows/windows-package-manager.html)
-
+Windows ohjelmistojen asennukseen tarvitset vielä paketin hallinnan, jonka ohje löytyy [SaltStackin](https://docs.saltstack.com/en/latest/topics/windows/windows-package-manager.html) sivulta.
