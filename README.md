@@ -1,7 +1,7 @@
 # SaltProject
 
 ## Tarkoitus ja tavoite tila
-• **Debian** – Verkonlaajuinen mainos- ja Internet-seurannan esto-ohjelmisto Pi-hole, ssh ja UFW: Asennettuna ja konfiguroituna.
+• **Debian** – Verkonlaajuinen mainos- ja Internet-seurannan esto-ohjelmisto Pi-hole, SSH ja UFW: Asennettuna ja konfiguroituna.
 
 • **Mx Linux** – Bash terminaali mieltymykset konfiguroitu ja taustakuva vaihdettu.
 
