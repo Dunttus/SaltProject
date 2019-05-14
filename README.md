@@ -1,11 +1,11 @@
 # SaltProject
 
 ## Tarkoitus ja tavoite tila
-• **Debian** – Verkonlaajuinen sivujen esto ohjelmisto Pi-hole ja UFW asennettuna ja konfiguroituna.
+• **Debian** – Verkonlaajuinen mainos- ja Internet-seurannan esto-ohjelmisto Pi-hole, ssh ja UFW: Asennettuna ja konfiguroituna.
 
 • **Mx Linux** – Bash terminaali mieltymykset konfiguroitu ja taustakuva vaihdettu.
 
-• **Xubuntu** – LAMP, SSH ja UFW asennettuna ja konfiguroituna.
+• **Xubuntu** – LAMP, SSH ja UFW: Asennettuna ja konfiguroituna.
 
 • **Windows Server 2016** – Ohjelmistot asennettu: 7zip, Firefox, AutoIt, Vlc, Putty.
 
